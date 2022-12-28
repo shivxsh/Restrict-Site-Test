@@ -2,7 +2,7 @@
 //For each website in the array :
     //Change the screen to a different link.
                     //or    
-    //Make that link inaccessable unitl its inside the array
+    //Make that link inaccessable until its inside the array.
 //Revoke the restrictions if user decides to remove the link from the array.
 
 
